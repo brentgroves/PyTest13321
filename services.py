@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # geektechstuff bluetooth
+# https://geektechstuff.com/2020/06/01/python-and-bluetooth-part-1-scanning-for-devices-and-services-python/
 import bluetooth
 
 def scan_services():
